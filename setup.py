@@ -18,7 +18,7 @@ import os
 from setuptools import setup
 
 NAME = 'home_config'
-VERSION = '0.1'
+VERSION = '0.1.1'
 SHORT_DESC = """A library to easily create and prioritize the config files
 for your application."""
 URL = 'http://github.com/caglartoklu/home_config'

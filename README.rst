@@ -86,6 +86,9 @@ Contribution
 Feel free to send fork requests, feedback and comments here:
 https://github.com/caglartoklu/home_config
 
+PyPI page:
+https://testpypi.python.org/pypi/home_config/
+
 
 License
 -------
